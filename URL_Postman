@@ -1,0 +1,9 @@
+[GET]
+http://localhost:8085/api/customers
+******************************************************
+[GET]- [ID]: Buscar segun ID
+http://localhost:8085/api/customers/[ID]
+******************************************************
+[Delete]- [ID]: Elimina segun ID
+http://localhost:8085/api/customers/[ID]
+******************************************************
